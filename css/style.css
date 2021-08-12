@@ -152,7 +152,6 @@ body {
   border: 3px solid white;
   margin-top: 5px;
   padding: 30px 10px;
-  width: 80%;
 }
 
 .header .date {
@@ -283,6 +282,47 @@ body {
   justify-content: center;
   background-color: #ec5242;
   width: 5%;
+}
+
+.stn-about {
+  border-top: 3px solid #f1f1f1;
+  background: white;
+  padding: 50px 0;
+  height: 560px;
+}
+
+.abt-paragraph {
+  line-height: 1.3rem;
+  border: 3px solid #f1f1f1;
+  margin-top: 5px;
+  padding: 30px 10px;
+}
+
+.event1 {
+  background-image: url(../images/2019.png);
+  height: 300px;
+  opacity: 0.3;
+}
+
+.event2 {
+  background-image: url(../images/2020.png);
+  height: 300px;
+  opacity: 0.2;
+}
+
+.past-event {
+  display: flex;
+  margin: 30px;
+  flex-direction: column;
+  text-align: center;
+  padding: 60px;
+  color: #fff;
+  font-size: 40px;
+}
+
+.abt-dark {
+  background: #333;
+  color: white;
 }
 
 @media all and (max-width: 768px) {
