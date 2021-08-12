@@ -11,7 +11,7 @@ This project contains the HTML, CSS and JavaScript Capstone Project. Capstone Pr
 
 ## Live Demo
 
-[Live Demo Link](https://codecaiine.github.io/microverse-javascript)
+[Live Demo Link](https://codecaiine.github.io/conference-website/)
  
 ## Built With
 
@@ -51,7 +51,7 @@ Run the command below from the Terminal:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/codecaiine/microverse-javascript/issues).
+Feel free to check the [issues page](https://github.com/codecaiine/conference-website/issues).
 
 ## Show your support
 
