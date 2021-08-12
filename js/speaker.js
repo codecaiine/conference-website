@@ -42,14 +42,13 @@ function getSpeakers(speaker) {
     <div class="row rounded overflow-hidden flex-md-row position-relative">
 
     <div class="col-auto d-lg-block">
-        <img src="${speaker.img}" width="120" height="120"  alt="${speaker.name}">
+        <img src="${speaker.img}" width="150" height="170"  alt="${speaker.name}">
 
     </div>
     <div class="col d-flex flex-column position-static">
         <h3 class="mb-0">${speaker.name}</h3>
-        <div class="mb-1 text-muted">${speaker.position} - ${speaker.company}</div>
+        <div class="mb-1 position">${speaker.position} - ${speaker.company}</div>
         <p class="card-text mb-auto">${speaker.bio}</p>
-        <a href="${speaker.website}" class="stretched-link">More</a>
     </div>
 
 </div></div>`;
