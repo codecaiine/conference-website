@@ -12,6 +12,8 @@ This project contains the HTML, CSS and JavaScript Capstone Project. Capstone Pr
 ## Live Demo
 
 [Live Demo Link](https://codecaiine.github.io/conference-website/)
+
+[Demo video link](https://www.loom.com/share/0031406c6c2b4a87b2066580a29365fb)
  
 ## Built With
 
@@ -59,9 +61,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Thanks to Microverse
-- Faizan
-- Ali Abbani
+This design is similar to the one created by [Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) .
 
 ## 📝 License
 
