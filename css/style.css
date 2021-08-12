@@ -242,15 +242,15 @@ body {
   margin-block: 10%;
 }
 
-.section-footer {
+footer {
   background: #f8f8f8;
   padding: 70px 0;
 }
 
+.footer h1,
 .section-speaker h1,
 .section-partner h1,
-.section-program h1,
-.section-footer h1 {
+.section-program h1 {
   margin-bottom: 20px;
   font-size: 30px;
 }
@@ -397,7 +397,7 @@ body {
     display: none;
   }
 
-  .section-footer .col-md-6 {
+  footer .col-md-6 {
     display: flex;
     flex-direction: column;
     align-items: center;
