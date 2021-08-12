@@ -31,7 +31,7 @@ Run the command below from the Terminal:
 
       git clone <URL> in your terminal
 
-	  cd microverse_portfolio
+	  cd conference-website
 
 	  start index.html
 
@@ -60,8 +60,8 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Thanks to Microverse
-- Paka OLIPLICHE
-- Ellis Mwanawabangona
+- Faizan
+- Ali Abbani
 
 ## 📝 License
 
