@@ -35,6 +35,24 @@ const speakers = [{
   bio: 'Satyanarayana Nadella  is an Indian-born American business executive. He is the executive chairman and CEO of Microsoft.',
 },
 
+{
+  img: './images/speakers/jack-dorsey.jpg',
+  name: 'Jack Dorsey',
+  position: 'CEO',
+  company: 'Twitter',
+  website: 'https://en.wikipedia.org/wiki/Jack_Dorsey',
+  bio: 'Jack Patrick Dorsey is an American billionaire technology entrepreneur and philanthropist who is the co-founder and CEO of Twitter, and the founder and CEO of Square, a financial payments company.',
+},
+
+{
+  img: './images/speakers/serguei-brin.png',
+  name: 'Sergey Brin',
+  position: 'Co-Found Google and Alphabet Inc.',
+  company: 'Mozilla',
+  website: 'https://en.wikipedia.org/wiki/Sergey_Brin',
+  bio: 'Sergey Mikhaylovich Brin is an American business magnate, computer scientist and Internet entrepreneur. Together with Larry Page, he co-founded Google and Alphabet Inc.',
+},
+
 ];
 
 function getSpeakers(speaker) {
