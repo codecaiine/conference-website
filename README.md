@@ -13,7 +13,7 @@ This project contains the HTML, CSS and JavaScript Capstone Project. Capstone Pr
 
 [Live Demo Link](https://codecaiine.github.io/conference-website/)
 
-[Demo video link](https://www.loom.com/share/0031406c6c2b4a87b2066580a29365fb)
+[Demo video link](https://www.loom.com/share/5beca23690864e118d2b4ab2bb3baf96)
  
 ## Built With
 
