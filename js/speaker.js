@@ -1,5 +1,5 @@
 const speakers = [{
-  img: './images/speakers/zuckerbeg.jpg',
+  img: './images/speakers/image-1.png',
   name: 'Mark Zuckerberg',
   position: 'Co-founder and CEO',
   company: 'Facebook',
@@ -8,7 +8,7 @@ const speakers = [{
 },
 
 {
-  img: './images/speakers/sundar-pichai.jpg',
+  img: './images/speakers/image-2.png',
   name: 'Sundar Pichai',
   position: 'CEO',
   company: 'Alphabet Inc. (Google)',
@@ -18,7 +18,7 @@ const speakers = [{
 },
 
 {
-  img: './images/speakers/mitchell-baker.jpg',
+  img: './images/speakers/image-3.png',
   name: 'Mitchell Baker',
   position: 'CEO',
   company: 'Mozilla',
@@ -27,7 +27,7 @@ const speakers = [{
 },
 
 {
-  img: './images/speakers/satya_nadella.jpg',
+  img: './images/speakers/image-4.png',
   name: 'Satya Nadella',
   position: 'CEO',
   company: 'Mozilla',
@@ -36,7 +36,7 @@ const speakers = [{
 },
 
 {
-  img: './images/speakers/jack-dorsey.jpg',
+  img: './images/speakers/image-5.png',
   name: 'Jack Dorsey',
   position: 'CEO',
   company: 'Twitter',
@@ -45,7 +45,7 @@ const speakers = [{
 },
 
 {
-  img: './images/speakers/serguei-brin.png',
+  img: './images/speakers/image-6.png',
   name: 'Sergey Brin',
   position: 'Co-Found Google and Alphabet Inc.',
   company: 'Mozilla',
@@ -60,7 +60,7 @@ function getSpeakers(speaker) {
     <div class="row rounded overflow-hidden flex-md-row position-relative">
 
     <div class="col-auto d-lg-block">
-        <img src="${speaker.img}" width="150" height="170"  alt="${speaker.name}">
+        <img src="${speaker.img}" width="178" height="178"  alt="${speaker.name}">
 
     </div>
     <div class="col d-flex flex-column position-static">
