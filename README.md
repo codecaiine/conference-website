@@ -2,10 +2,14 @@
 
 This project contains the HTML, CSS and JavaScript Capstone Project. Capstone Projects are done at the end of a module at Microverse.
 
+## Project Description
+Dev Days is a fictional annual developer event in  Côte d'Ivoire in West Africa. Editions have been held previously. This project showcases the Home and About Pages with sections relating to the event's programs, previous events gallery and invited guests
+
+
+### Screenshot
 
 ![screenshot](./images/conf-desk.PNG)
 
-![screenshot](./images/conf-mob.PNG)
 
  
 
