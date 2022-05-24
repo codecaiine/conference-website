@@ -31,16 +31,16 @@ const speaker3 = new Speakers(
   'Sergey Mikhaylovich Brin is an American business magnate, computer scientist and Internet entrepreneur.',
 );
 const speaker4 = new Speakers(
-  'images/zuckerbeg.jpg',
-  'Mark Zuckerbeg',
-  'CEO Meta',
-  'Mark Elliot Zuckerberg is an American media magnate, internet entrepreneur, and philanthropist and Facebook, Inc co-founder.',
-);
-const speaker5 = new Speakers(
   'images/jack-dorsey.jpg',
   'Jack Dorsey',
   'CEO Twitter',
   'Jack Patrick Dorsey is an American billionaire technology entrepreneur and philanthropist who is the co-founder and CEO of Twitter, and the founder and CEO of Square, a financial payments company.',
+);
+const speaker5 = new Speakers(
+  'images/zuckerbeg.jpg',
+  'Mark Zuckerbeg',
+  'CEO Meta',
+  'Mark Elliot Zuckerberg is an American media magnate, internet entrepreneur, and philanthropist and Facebook, Inc co-founder.',
 );
 const speaker6 = new Speakers(
   'images/sundar-pichai.jpg',
