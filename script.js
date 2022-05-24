@@ -27,7 +27,7 @@ const speaker2 = new Speakers(
 const speaker3 = new Speakers(
   'images/speaker-3.png',
   'Paka Olipliche',
-  'Professional Business manager and retired software developer',
+  'Software developer',
   'Freedom has been in software industry for 7 years and has been invited to speak on conferences all over the world.',
 );
 const speaker4 = new Speakers(
