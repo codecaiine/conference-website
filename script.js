@@ -19,10 +19,10 @@ const speaker1 = new Speakers(
   'Winifred Mitchell Baker is the Executive Chairwoman and CEO of the Mozilla Foundation and of Mozilla Corporation, a subsidiary of the Mozilla Foundation.',
 );
 const speaker2 = new Speakers(
-  'images/speaker-2.png',
-  'Yasmine Gouesse',
-  'Front-end Engineer',
-  'Teddy has been in software industry for 7 years and has been invited to speak on conferences all over the world.',
+  'images/satya_nadella.jpg',
+  'Satya Nadella',
+  'CEO Microsoft',
+  'Satyanarayana Nadella is an Indian-born American business executive. He is the executive chairman and CEO of Microsoft.',
 );
 const speaker3 = new Speakers(
   'images/speaker-3.png',
