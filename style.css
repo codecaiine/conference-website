@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
-/* Global style */
+
 @font-face {
   font-family: Cocogoose;
   src: url('Cocogoose_trial.ttf');
@@ -29,7 +29,6 @@ ul {
   list-style: none;
 }
 
-/* links */
 
 a {
   text-decoration: none;
@@ -92,8 +91,6 @@ a {
 .header-section .current a {
   color: var(--primary-color);
 }
-
-/* Header style */
 
 .header-section {
   height: 100%;
@@ -166,7 +163,6 @@ a {
   color: var(--primary-color);
 }
 
-/* Side menu */
 #side-menu {
   display: none;
   flex-direction: column;
@@ -208,7 +204,6 @@ a {
   color: var(--primary-color);
 }
 
-/* Header content */
 .sub-header {
   max-width: 90%;
   margin: 5rem auto;
@@ -283,7 +278,6 @@ a {
   text-decoration: underline;
 }
 
-/* Program section */
 
 .program {
   background-image: url('images/program-bg-img.jpg');
@@ -376,8 +370,6 @@ a {
   background-image: linear-gradient(rgb(233, 13, 13), rgb(114, 6, 6));
 }
 
-/* Featured style */
-
 .mg-3 {
   margin-bottom: 4rem;
 }
@@ -436,7 +428,6 @@ a {
   margin: 0.5rem 0;
 }
 
-/* Partner style */
 .partnership {
   background-color: var(--dark-color);
   width: 100%;
@@ -466,7 +457,6 @@ a {
   text-align: center;
 }
 
-/* About style */
 .about-logo {
   color: var(--dark-color);
   width: 100%;
@@ -574,14 +564,12 @@ a {
   text-align: center;
 }
 
-/* Media query for mobile */
 @media (max-width: 768px) {
   .nav-desktop {
     display: none;
   }
 }
 
-/* Media query for desktop */
 @media (min-width: 769px) {
   .hamburger {
     display: none;
