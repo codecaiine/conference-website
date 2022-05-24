@@ -33,7 +33,7 @@ const speaker3 = new Speakers(
 const speaker4 = new Speakers(
   'images/speaker-4.png',
   'Kossi Fioku',
-  'Professional Community Manager',
+  'Web Developer',
   'Emily has been a community manager for 7 years and has been invited to speak on conferences all over the world.',
 );
 const speaker5 = new Speakers(
