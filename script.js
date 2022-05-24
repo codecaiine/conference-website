@@ -21,7 +21,7 @@ const speaker1 = new Speakers(
 const speaker2 = new Speakers(
   'images/speaker-2.png',
   'Yasmine Gouesse',
-  'Professional Ruby on rail developer',
+  'Front-end Engineer',
   'Teddy has been in software industry for 7 years and has been invited to speak on conferences all over the world.',
 );
 const speaker3 = new Speakers(
