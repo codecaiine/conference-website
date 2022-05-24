@@ -37,10 +37,10 @@ const speaker4 = new Speakers(
   'Mark Elliot Zuckerberg is an American media magnate, internet entrepreneur, and philanthropist and Facebook, Inc co-founder.',
 );
 const speaker5 = new Speakers(
-  'images/speaker-5.png',
-  'Jeanne d Arc',
-  'Professional JavaScript and React developer',
-  'has been a developer for 7 years and has been invited to speak on conferences all over the world.',
+  'images/jack-dorsey.jpg',
+  'Jack Dorsey',
+  'CEO Twitter',
+  'Jack Patrick Dorsey is an American billionaire technology entrepreneur and philanthropist who is the co-founder and CEO of Twitter, and the founder and CEO of Square, a financial payments company.',
 );
 const speaker6 = new Speakers(
   'images/speaker-6.png',
