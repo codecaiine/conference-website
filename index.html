@@ -1,192 +1,161 @@
-<!doctype html>
-
+<!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
-    <link href="https://fonts.cdnfonts.com/css/cocogoose" rel="stylesheet">
-    <link href="./css/style.css" rel="stylesheet">
-
-    <title>Developer Days Côte 2021</title>
-
-</head>
-
-<body>
-    <header>
-        <nav class="top-menu d-none d-sm-block">
-            <div class="container">
-                <div class="d-flex justify-content-end">
-                    <ul class="link-rx">
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
-                    </ul>
-                    <ul class="link-info">
-                        <li>French</li>
-                        <li>Sign Up</li>
-                        <li>Login</li>
-                    </ul>
-                </div>
-            </div>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Web Developer Festival Cote d'Ivoire</title>
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.15.3/css/all.css"
+      integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header id="header" class="header-section">
+      <div class="header-wrapper">
+        <nav class="navbar">
+          <div class="nav-desktop">
+            <a href="index.html" class="logo">Dev Festival</a>
+            <ul class="nav-item">
+              <li class="nav-list current"><a href="index.html">Home</a></li>
+              <li class="nav-list"><a href="about.html">About</a></li>
+            </ul>
+          </div>
+          <div class="hamburger" id="menu">
+            <div class="menu-line"></div>
+            <div class="menu-line"></div>
+            <div class="menu-line"></div>
+          </div>
         </nav>
-        <nav class="nav-bar">
-            <div class="logo">
-                <a href="index.html"><i class="fa fa-terminal" aria-hidden="true"></i> <span>Dev Days</span></a>
+        <section class="sub-header">
+          <div class="header-content">
+            <p class="small-paragraph">"Hello, Devs!"</p>
+            <h1 class="bg-heading">Web Developer Festival Côte d'Ivoire 2022</h1>
+            <div class="sub-content">
+              <p class="lead-lg">
+                Two days event to learn more about technology from top technology companie! The technology week 2021 will bring together successful entrepreneurs, venture capitalists, angel investors and advisors to teach you the tricks of the trade, offer advice, tips and tools for aspiring entrepreneurs as Big tech company.
+              </p>
             </div>
-            <div class="openMenu"><i class="fa fa-bars"></i></div>
-            <div class="myMenu">
-                <ul class="nav-list">
-                    <li><a href="about.html" class="list-item">About</a></li>
-                    <li><a href="#my_program" class="list-item">Program</a></li>
-                    <li><a href="#my_speakers" class="list-item">Speakers</a></li>
-                    <li><a href="#my_partners" class="list-item">Partners</a></li>
-                    <li><a href="#" class="list-item">Blog</a></li>
-                    <li><a class="btn btn-ticket" href="#!">Buy Tickets now</a></li>
-                </ul>
-                <div class="closeMenu"><i class="fa fa-times"></i></div>
-            </div>
-        </nav>
-
+            <p class="bg-paragraph">2022.06.17(FRI) ~ 18(SAT)</p>
+            <p class="lead-md">
+              <i class="fas fa-clock"></i> 9:00 AM - 12:00 PM
+            </p>
+            <p class="lead-md">
+              @ Fondation Felix Houphouet Boigny, Yamoussoukro - Côte d'Ivoire.
+            </p>
+          </div>
+        </section>
+      </div>
+      <section id="side-menu">
+        <span id="close">&times;</span>
+        <ul class="nav-item side-menu-list">
+          <li class="nav-list current"><a href="index.html">Home</a></li>
+          <li class="nav-list"><a href="about.html">About</a></li>
+        </ul>
+      </section>
     </header>
-    <section class="header">
-        <div class="container">
-            <div class="container">
-                <div class="row justify-content-center align-content-center">
-                    <div class="col-lg-10 col-md-6">
-                        <h3>West Africa premier Developer Conference</h3>
-                        <h1 class="title">
-                            <span>Developer Days</span>
-                            <br>
-                            <span>Côte d'Ivoire</span>
-                        </h1>
-                        <p>
-                            Two days event to learn more about technology from top technology companie! The technology week 2021 will bring together successful entrepreneurs, venture capitalists, angel investors and advisors to teach you the tricks of the trade, offer advice, tips
-                            and tools for aspiring entrepreneurs as Big tech company.
-                        </p>
-                    </div>
-                    <div class="col-lg-10 col-md-6">
-
-                        <h3 class="date">23th - 24th December, 2021</h3>
-                        <h2>Sofitel Hôtel Ivoire - Abidjan</h2>
-                    </div>
-                </div>
-            </div>
+    <main>
+      <section class="program">
+        <div class="program-wrapper">
+          <div class="program-heading">
+            <h2 class="md-heading">Main Program</h2>
+            <div class="underline"></div>
+          </div>
+          <ul class="program-list">
+            <li class="program-item">
+              <i class="fas fa-book-open"></i>
+              <h3 class="topic">Lecture</h3>
+              <p class="lead">
+                We will focus on giving lecture about web development and get
+                you to know about the basics of web development.
+              </p>
+            </li>
+            <li class="program-item">
+              <i class="fas fa-chalkboard-teacher"></i>
+              <h3 class="topic">Exhibition</h3>
+              <p class="lead">
+                You will get to see several exhibition of talents from our
+                students and staffs with many exciting events and get to have fun and more. 
+              </p>
+            </li>
+            <li class="program-item">
+              <i class="fas fa-mail-bulk"></i>
+              <h3 class="topic">Forum</h3>
+              <p class="lead">
+                We will introduce you to our community on slack and discourse
+                and you will get to know people across the globe.
+              </p>
+            </li>
+            <li class="program-item">
+              <i class="fab fa-wpforms"></i>
+              <h3 class="topic">Workshop</h3>
+              <p class="lead">
+                Hello there, Our workshop is designed to get you acquainted with our program
+                and the tools we use daily. 
+              </p>
+            </li>
+            <li class="program-item">
+              <i class="fas fa-mail-bulk"></i>
+              <h3 class="topic">Ignite</h3>
+              <p class="lead">
+                Get the chance to work with fellow developers all over the world
+                when you join our special web development bootcamp.
+              </p>
+            </li>
+          </ul>
+          <div class="button">
+            <button type="submit" class="btn">
+              Buy your ticket
+            </button>
+          </div>
         </div>
-    </section>
-    <section class="section-program" id="my_program">
-        <div class="container">
-            <div class="main-title">
-                <h1 class="title">Main Program</h1>
-                <div class="title-line"></div>
-            </div>
-            <div class="row justify-content-center mb-3 text-center program-desk">
-                <div class="col-lg-2 col-md-6">
-                    <div class="card mb-4">
-                        <i class="fa fa-users fa-2x"></i>
-                        <h4>Networking</h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, veritatis!.</p>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-md-6">
-                    <div class="card mb-4">
-                        <i class="fa fa-rocket fa-2x"></i>
-                        <h4>Workshops</h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, veritatis!.</p>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-md-6">
-                    <div class="card mb-4">
-                        <i class="fa fa-comments-o fa-2x"></i>
-                        <h4>Forum</h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, veritatis!.</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-2 col-md-6">
-                    <div class="card">
-                        <i class="fa fa-graduation-cap fa-2x"></i>
-                        <h4>Certifications</h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, veritatis!.</p>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-md-6">
-                    <div class="card">
-                        <i class="fa fa-microphone fa-2x"></i>
-                        <h4>Talks</h4>
-
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, veritatis!.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row justify-content-center align-content-center programs-list">
-            </div>
-
-            <div class="btn-more">
-                <h3><a href="#"><span class="more-program">See the whole program</span></a></h3>
-            </div>
-
+      </section>
+      <section id="featured" class="feature-section">
+        <div id="feature-wrapper">
+          <div class="program-heading mg-3">
+            <h2 class="md-heading text-dark">Featured speakers</h2>
+            <div class="underline"></div>
+          </div>
         </div>
-    </section>
-    <section class="section-speaker" id="my_speakers">
-        <div class="container">
-            <div class="main-title">
-                <h1 class="title">Featured Speakers</h1>
-                <div class="title-line"></div>
-            </div>
-            <div class="row mb-2" id="speakers-list"></div>
+      </section>
+      <section class="partnership">
+        <div class="partner-wrapper">
+          <div class="program-heading">
+            <h2 class="md-heading">Partner</h2>
+            <div class="underline"></div>
+          </div>
+          <ul class="partners">
+            <li class="partner-list list-1"><a href="#">Mozilla</a></li>
+            <li class="partner-list list-2"><a href="#">Google</a></li>
+            <li class="partner-list list-3"><a href="#">Naver</a></li>
+            <li class="partner-list list-4"><a href="#">daumkakao</a></li>
+            <li class="partner-list list-5">
+              <a href="#"><i class="fab fa-airbnb"></i> airbnb</a>
+            </li>
+          </ul>
         </div>
-    </section>
-    <section class="section-partner" id="my_partners">
-        <div class="container">
-            <div class="main-title">
-                <h1 class="title">Partners</h1>
-                <div class="title-line"></div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-3 col-md-4">
-                    <img src="./images/partner/mozilla.png" width="250" height="70" alt="Logo partner">
-                </div>
-                <div class="col-lg-3 col-md-4">
-                    <img src="./images/partner/facebook.png" width="280" height="100" alt="Logo partner">
-                </div>
-                <div class="col-lg-3 col-md-4">
-                    <img src="./images/partner/amazone.png" width="210" height="70" alt="Logo partner">
-                </div>
-                <div class="col-lg-3 col-md-4">
-                    <img src="./images/partner/google-logo.png" width="210" height="70" alt="Logo partner">
-                </div>
-            </div>
+      </section>
+      <section class="footer">
+        <div class="main-footer">
+          Made with love ❤ by Codecaiine, copyright &copy; 2022
         </div>
-    </section>
-    <footer>
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-2 col-md-6">
-                    <div class="logo">
-                        <a href="index.html"><i class="fa fa-terminal" aria-hidden="true"></i> <span>Dev Days</span></a>
-                    </div>
-                </div>
-                <div class="col-lg-10 col-md-6">
-                    <div class="footer-copy-right text-center">
-
-                        <h4>Copyright © 2021 All rights reserved | This website is made with <i class="fa fa-heart color-danger" aria-hidden="true"></i> with <a href="https://getbootstrap.com/">bootstrap .</a></h4>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-
-    <script src="./js/navbar.js">
-    </script>
-    <script src="./js/speaker.js"></script>
-    <script src="./js/program.js"></script>
-</body>
-
+        <ul class="footer-list">
+          <li class="footer-item">
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+          </li>
+          <li class="footer-item">
+            <a href="#"><i class="fab fa-twitter"></i></a>
+          </li>
+          <li class="footer-item">
+            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+          </li>
+        </ul>
+      </section>
+    </main>
+    <script src="script.js"></script>
+    <script src="menu.js"></script>
+  </body>
 </html>

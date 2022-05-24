@@ -1,15 +1,12 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Conference Website Capstone
 
-This project contains the HTML, CSS and JavaScript Capstone Project. Capstone Projects are done at the end of a module at Microverse.
+> This project contains the HTML, CSS and JavaScript Capstone Project. Capstone Projects are done at the end of a module at Microverse.
 
 ## Project Description
-Dev Days is a fictional annual developer event in  Côte d'Ivoire in West Africa. Editions have been held previously. This project showcases the Home and About Pages with sections relating to the event's programs, previous events gallery and invited guests
 
-
-### Screenshot
-
-![screenshot](./images/conf-desk.PNG)
-
+> This is a fictional annual developer event in Africa. Editions have been held previously. This project showcases the Home and About Pages with sections relating to the event's programs, previous events gallery and invited guests
 
  
 
@@ -17,7 +14,6 @@ Dev Days is a fictional annual developer event in  Côte d'Ivoire in West Africa
 
 [Live Demo Link](https://codecaiine.github.io/conference-website/)
 
-[Demo video link](https://www.loom.com/share/5beca23690864e118d2b4ab2bb3baf96)
  
 ## Built With
 
@@ -28,18 +24,13 @@ Dev Days is a fictional annual developer event in  Côte d'Ivoire in West Africa
 - HTML&CSS Linter
 - Git
 
-## Get Started
+## Getting Started
 
-Please get your browser update.
 To get a local copy up and running follow these simple steps.
 
-Run the command below from the Terminal:
+- You can clone this repo by typing `git clone https://github.com/codecaiine/conference-website.git` on your terminal
 
-      git clone <URL> in your terminal
-
-	  cd conference-website
-
-	  start index.html
+- Type `cd conference-website` to access the project on the terminal
 
 
 
