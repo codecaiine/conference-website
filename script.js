@@ -31,10 +31,10 @@ const speaker3 = new Speakers(
   'Sergey Mikhaylovich Brin is an American business magnate, computer scientist and Internet entrepreneur.',
 );
 const speaker4 = new Speakers(
-  'images/speaker-4.png',
-  'Kossi Fioku',
-  'Web Developer',
-  'Wed developer invited to speak on conferences all over the world.',
+  'images/zuckerbeg.jpg',
+  'Mark Zuckerbeg',
+  'CEO Meta',
+  'Mark Elliot Zuckerberg is an American media magnate, internet entrepreneur, and philanthropist and Facebook, Inc co-founder.',
 );
 const speaker5 = new Speakers(
   'images/speaker-5.png',
