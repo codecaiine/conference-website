@@ -43,10 +43,10 @@ const speaker5 = new Speakers(
   'Jack Patrick Dorsey is an American billionaire technology entrepreneur and philanthropist who is the co-founder and CEO of Twitter, and the founder and CEO of Square, a financial payments company.',
 );
 const speaker6 = new Speakers(
-  'images/speaker-6.png',
-  'Michel Baker',
-  'Professional Full stack Software Developer',
-  'has been a developer for 7 years and has been invited to speak on conferences all over the world.',
+  'images/sundar-pichai.jpg',
+  'Sundar Pichai',
+  'CEO Google - Alphabet',
+  'Pichai Sundararajan is an Indian-American business executive.He is the chief executive officer (CEO) of Alphabet Inc.',
 );
 
 const speakerArr = [speaker1, speaker2, speaker3, speaker4, speaker5, speaker6];
