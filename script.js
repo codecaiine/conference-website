@@ -13,37 +13,37 @@ speakerList.classList.add('speaker-list');
 container.appendChild(speakerList);
 
 const speaker1 = new Speakers(
-  'images/mitchell-baker.jpg',
+  'images/image-1.png',
   'Mitchell Baker',
   'CEO - Mozilla',
   'Winifred Mitchell Baker is the Executive Chairwoman and CEO of the Mozilla Foundation and of Mozilla Corporation, a subsidiary of the Mozilla Foundation.',
 );
 const speaker2 = new Speakers(
-  'images/satya_nadella.jpg',
+  'images/image-2.png',
   'Satya Nadella',
   'CEO Microsoft',
   'Satyanarayana Nadella is an Indian-born American business executive. He is the executive chairman and CEO of Microsoft.',
 );
 const speaker3 = new Speakers(
-  'images/serguei-brin.png',
+  'images/image-3.png',
   'Serguei Brin',
   'Co-Founder Google and Alphabet Inc.',
   'Sergey Mikhaylovich Brin is an American business magnate, computer scientist and Internet entrepreneur.',
 );
 const speaker4 = new Speakers(
-  'images/jack-dorsey.jpg',
+  'images/image-4.png',
   'Jack Dorsey',
   'CEO Twitter',
   'Jack Patrick Dorsey is an American billionaire technology entrepreneur and philanthropist who is the co-founder and CEO of Twitter, and the founder and CEO of Square, a financial payments company.',
 );
 const speaker5 = new Speakers(
-  'images/zuckerbeg.jpg',
+  'images/image-5.png',
   'Mark Zuckerbeg',
   'CEO Meta',
   'Mark Elliot Zuckerberg is an American media magnate, internet entrepreneur, and philanthropist and Facebook, Inc co-founder.',
 );
 const speaker6 = new Speakers(
-  'images/sundar-pichai.jpg',
+  'images/image-6.png',
   'Sundar Pichai',
   'CEO Google - Alphabet',
   'Pichai Sundararajan is an Indian-American business executive.He is the chief executive officer (CEO) of Alphabet Inc.',
