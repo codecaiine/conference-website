@@ -15,7 +15,7 @@ container.appendChild(speakerList);
 const speaker1 = new Speakers(
   'images/speaker-1.png',
   'Yasmine Miriam',
-  'Proffesional Internet Marketer and Digital marketer',
+  'Ruby on Rails Developer',
   'Quincy has been in digital market industry for 10 years and has been invited to speak on conferences all over the world.',
 );
 const speaker2 = new Speakers(
