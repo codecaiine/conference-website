@@ -13,10 +13,10 @@ speakerList.classList.add('speaker-list');
 container.appendChild(speakerList);
 
 const speaker1 = new Speakers(
-  'images/speaker-1.png',
-  'Yasmine Miriam',
-  'Ruby on Rails Developer',
-  'Quincy has been in digital market industry for 10 years and has been invited to speak on conferences all over the world.',
+  'images/mitchell-baker.jpg',
+  'Mitchell Baker',
+  'CEO - Mozilla',
+  'Winifred Mitchell Baker is the Executive Chairwoman and CEO of the Mozilla Foundation and of Mozilla Corporation, a subsidiary of the Mozilla Foundation.',
 );
 const speaker2 = new Speakers(
   'images/speaker-2.png',
