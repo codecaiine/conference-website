@@ -25,10 +25,10 @@ const speaker2 = new Speakers(
   'Satyanarayana Nadella is an Indian-born American business executive. He is the executive chairman and CEO of Microsoft.',
 );
 const speaker3 = new Speakers(
-  'images/speaker-3.png',
-  'Paka Olipliche',
-  'Software developer',
-  'Freedom has been in software industry for 7 years and has been invited to speak on conferences all over the world.',
+  'images/serguei-brin.png',
+  'Serguei Brin',
+  'Co-Founder Google and Alphabet Inc.',
+  'Sergey Mikhaylovich Brin is an American business magnate, computer scientist and Internet entrepreneur.',
 );
 const speaker4 = new Speakers(
   'images/speaker-4.png',
