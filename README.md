@@ -8,7 +8,11 @@
 
 > This is a fictional annual developer event in Africa. Editions have been held previously. This project showcases the Home and About Pages with sections relating to the event's programs, previous events gallery and invited guests
 
- 
+
+### Screenshot
+
+![screenshot](./images/screenshoot.png)
+
 
 ## Live Demo
 
