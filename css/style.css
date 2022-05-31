@@ -248,19 +248,19 @@ a {
   -webkit-text-fill-color: transparent;
 }
 
-.sub-content {
+.head-content {
   width: 95%;
   border: 2px solid var(--white-color);
   padding: 20px;
   color: var(--dark-color);
 }
 
-.lead-light {
+.head-light {
   background-color: var(--white-color);
   border: 1px solid var(--light-color);
 }
 
-.bg-paragraph {
+.date-text {
   color: var(--dark-color);
   font-family: Cocogoose, sans-serif;
   font-size: 35px;
@@ -269,7 +269,7 @@ a {
   margin-top: 2rem;
 }
 
-.lead-md {
+.text-md {
   color: var(--dark-color);
 }
 
@@ -299,13 +299,13 @@ a {
   grid-template-columns: 1fr;
 }
 
-.program-heading {
+.program-title {
   position: relative;
   text-align: center;
   margin: 2rem auto;
 }
 
-.md-heading {
+.md-txt {
   color: var(--light-color);
   font-size: 30px;
   text-align: center;
@@ -463,20 +463,20 @@ a {
   margin: 4rem 0;
 }
 
-.about-logo-wrapper {
+.abt-logo-wrap {
   width: 90%;
   margin: 1rem auto;
   text-align: center;
 }
 
-.about-logo-content {
+.about-text {
   font-family: Cocogoose, sans-serif;
   margin-top: 2rem;
   border: 1px solid var(--light-color);
   padding: 2rem;
 }
 
-.about-logo-content span {
+.about-text span {
   font-family: monospace;
   display: block;
 }
@@ -505,7 +505,7 @@ a {
   border: 2px solid var(--primary-color);
 }
 
-.past-content-wrapper {
+.past-event {
   display: flex;
   flex-direction: column;
   position: absolute;
@@ -521,7 +521,7 @@ a {
 }
 
 .bg-img-1 {
-  background-image: url('images/img9.jpg');
+  background-image: url('../images/img9.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
