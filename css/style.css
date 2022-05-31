@@ -277,7 +277,7 @@ a {
 }
 
 .program {
-  background-image: url('./images/program-bg.jpg');
+  background-image: url('../images/program-bg.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
