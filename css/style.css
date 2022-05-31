@@ -527,20 +527,6 @@ a {
   background-repeat: no-repeat;
 }
 
-.bg-img-2 {
-  background-image: url('images/img10.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.bg-img-3 {
-  background-image: url('images/img11.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
 /* Footer style */
 .footer {
   width: 100%;
