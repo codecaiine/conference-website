@@ -11,7 +11,7 @@
 
 ### Screenshot
 
-![screenshot](./images/conf-desk.PNG)
+![screenshot](./images/screenshoot.png)
 
 
 ## Live Demo
