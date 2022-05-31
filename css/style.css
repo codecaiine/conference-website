@@ -230,14 +230,14 @@ a {
   margin: 0 auto;
 }
 
-.small-paragraph {
+.small-title {
   margin-top: 2rem;
   color: var(--primary-color);
   font-size: 25px;
   font-family: 'lato', sans-serif;
 }
 
-.bg-heading {
+.head-title {
   color: var(--primary-color);
   font-family: Cocogoose, sans-serif;
   font-size: 45px;
