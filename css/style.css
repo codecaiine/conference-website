@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
-
 @font-face {
   font-family: Cocogoose;
   src: url('./fonts/Cocogoose_trial.ttf');
@@ -28,7 +27,6 @@ body {
 ul {
   list-style: none;
 }
-
 
 a {
   text-decoration: none;
@@ -277,7 +275,6 @@ a {
   color: var(--primary-color);
   text-decoration: underline;
 }
-
 
 .program {
   background-image: url('./images/program-bg.jpg');
