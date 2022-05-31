@@ -3,7 +3,7 @@
 
 @font-face {
   font-family: Cocogoose;
-  src: url('Cocogoose_trial.ttf');
+  src: url('./fonts/Cocogoose_trial.ttf');
 }
 
 body {
@@ -95,7 +95,7 @@ a {
 .header-section {
   height: 100%;
   width: 100%;
-  background-image: url(images/web-bg-img.jpg);
+  background-image: url(../images/web-bg-img.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
